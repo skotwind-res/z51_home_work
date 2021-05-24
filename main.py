@@ -1,9 +1,5 @@
-import time
-import random
-import numpy
+from modules.my_app import run
 
-print("hello")
 
-print("world")
-
-"comment"
+if __name__ == '__main__':
+	run()
